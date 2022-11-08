@@ -140,7 +140,7 @@
 
 ### ⚡ Github Stats:
 
-<p>
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=mahfuzurrah&show_icons=true&hide_border=true&theme=tokyonight" alt="MehedilslamRipon's stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzurrah&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mahfuzurrah's stats"/>
 </p>
