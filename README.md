@@ -1,4 +1,4 @@
-[![MasterHead](https://mahfuzurrah.github.io/gif/)](https://rishavchanda.io)
+[![MasterHead](<img src="https://mahfuzurrah.github.io/gif" alt="mahfuzurrah" />)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman</h1>
 <h3 align="center">A passionate UI/UX & Front-end Developer from Bangladesh</h3>
