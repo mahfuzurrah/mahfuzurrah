@@ -96,6 +96,12 @@
       </a>
       <br>Figma
     </td>
+	<td align="center" width="96"> 
+      <a href="#" >
+        <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="48" height="48" alt="Adobe_XD" />
+      </a>
+      <br>Adobe_XD
+    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
