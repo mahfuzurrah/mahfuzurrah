@@ -134,15 +134,18 @@
 ### ☄️ Github Streaks:
 
 <p align="center">
-    <img alt="MehedilslamRipon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzurrah&theme=tokyonight&hide_border=true"/>
+    <img alt="mahfuzurrah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzurrah&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### ⚡ Github Stats:
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=mahfuzurrah&show_icons=true&hide_border=true&theme=tokyonight" alt="MehedilslamRipon's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehedilslamRipon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="MehedilslamRipon's stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzurrah&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mahfuzurrah's stats"/>
 </p>
 
 ---
 
+<p>
+<img alt="mahfuzurrah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahfuzurrah&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
