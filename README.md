@@ -87,8 +87,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzurrah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mahfuzurrah" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzurrah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mahfuzurrah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuzurrah&show_icons=true&locale=en&theme=tokyonight" alt="mahfuzurrah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuzurrah&show_icons=true&locale=en&theme=tokyonight" alt="mahfuzurrah" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzurrah&&theme=tokyonight" alt="mahfuzurrah" /></p>
