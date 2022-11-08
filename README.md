@@ -86,7 +86,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg" width="48" height="48" alt="figma" />
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="figma" />
       </a>
       <br>Figma
     </td>
