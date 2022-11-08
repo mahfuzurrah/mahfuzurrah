@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahfuzuruiux/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01836bf1dc4849de58" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlpnVq0Jnx2b2ZagyTmNaMuCkOoGG3LIw3vg2Sy9dy4VvRWqZ3_U4EUYTSm4D6mCQgFc&usqp=CAU" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahfuzuruiux/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rishavchanda" height="30" width="30" /></a>
+<a href="https://www.upwork.com/freelancers/~01836bf1dc4849de58" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlpnVq0Jnx2b2ZagyTmNaMuCkOoGG3LIw3vg2Sy9dy4VvRWqZ3_U4EUYTSm4D6mCQgFc&usqp=CAU" alt="rishav-chanda-b89a791b3" height="30" width="30" /></a>
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
