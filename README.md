@@ -65,12 +65,6 @@
       <br>ReactJS
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
@@ -81,6 +75,12 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>TailwindCSS
+    </td>
+	<td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
   </tr>
   <tr>
