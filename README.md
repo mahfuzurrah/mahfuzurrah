@@ -83,10 +83,10 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&usqp=CAU" width="48" height="48" alt="tailwindcss" />
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>tailwindcss
+      <br>TailwindCSS
     </td>
   </tr>
   <tr>
@@ -125,12 +125,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
       </a>
       <br>npm
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <br>TailwindCSS
     </td>
     <td align="center" width="96">
       <a href="#" >
