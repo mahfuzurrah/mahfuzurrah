@@ -52,12 +52,12 @@
       </a>
       <br>Javascript
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
