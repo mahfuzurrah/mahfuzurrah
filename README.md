@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahfuzuruiux@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am a Music Lover**
 
 
 
