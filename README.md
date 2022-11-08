@@ -83,6 +83,12 @@
       <br>TailwindCSS
     </td>
   </tr>
+  <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
+      </a>
+      <br>VScode
+    </td>
   <tr>
     <td align="center" width="96"> 
       <a href="#" >
@@ -92,7 +98,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="NextJS" />
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br>Adobe Illustrator
     </td>
@@ -101,12 +107,6 @@
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
       </a>
       <br>Github
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
-      </a>
-      <br>VScode
     </td>
     <td align="center" width="96">
       <a href="#">
