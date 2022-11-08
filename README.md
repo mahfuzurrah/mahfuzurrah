@@ -32,8 +32,8 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-  <tr align="center">
+<table align="center">
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
@@ -83,7 +83,7 @@
       <br>Git
     </td>
   </tr>
-  <tr align="center">
+  <tr>
 	<td align="center" width="96"> 
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
