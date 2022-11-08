@@ -92,15 +92,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="figma" />
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>Adobe Illustrator
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -122,9 +116,15 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="illustrator" />
+      </a>
+      <br>Adobe Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
       </a>
-      <br>Photoshop
+      <br>Adobe Photoshop
     </td>
   </tr>
 </table>
