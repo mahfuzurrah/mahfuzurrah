@@ -102,11 +102,17 @@
       </a>
       <br>Adobe_XD
     </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+	  <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="illustrator" />
       </a>
-      <br>Github
+      <br>Adobe Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Adobe Photoshop
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -119,18 +125,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
       </a>
       <br>npm
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="illustrator" />
-      </a>
-      <br>Adobe Illustrator
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
-      </a>
-      <br>Adobe Photoshop
     </td>
   </tr>
 </table>
