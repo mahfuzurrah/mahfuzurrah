@@ -86,15 +86,15 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg" width="48" height="48" alt="figma" />
       </a>
-      <br>ExpressJS
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="NextJS" />
       </a>
-      <br>NextJS
+      <br>Adobe Illustrator
     </td>
     <td align="center"  width="96">
       <a href="#">
