@@ -135,7 +135,7 @@
 ### ☄️ Github Streaks:
 
 <p align="center">
-    <img alt="mahfuzurrah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzurrah&theme=tokyonight&hide_border=true"/>
+    <img width="60%" alt="mahfuzurrah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzurrah&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### ⚡ Github Stats:
