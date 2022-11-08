@@ -83,12 +83,13 @@
       <br>TailwindCSS
     </td>
   </tr>
+  <tr>
 	<td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
       </a>
       <br>VScode
-    </td>
+    </td></tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#" >
