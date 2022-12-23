@@ -4,7 +4,7 @@
 <h3 align="center">A passionate UI/UX & Front-end Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzurrah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzurrah&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzurrah" /> </p>
 
 - 🔭 I’m currently working on **...**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahfuzuruiux/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rishavchanda" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mahfuzuruiux/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="mahfuzurrah" height="30" width="30" /></a>
 <a href="https://www.upwork.com/freelancers/~01836bf1dc4849de58" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlpnVq0Jnx2b2ZagyTmNaMuCkOoGG3LIw3vg2Sy9dy4VvRWqZ3_U4EUYTSm4D6mCQgFc&usqp=CAU" alt="rishav-chanda-b89a791b3" height="30" width="30" /></a>
 </p>
 
